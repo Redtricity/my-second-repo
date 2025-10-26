@@ -15,3 +15,10 @@ Make sure you’re on your own branch and be kind — no deleting anyone else's 
 💬 Fun fact: I love video games  
 
 ---
+---
+
+🧑 Name: Bryan 
+🎓 Course: BSc (Hons) Game Development  
+💬 Fun fact: I love COD 
+
+---
